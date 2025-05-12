@@ -29,7 +29,7 @@ A RESTful API for managing users, projects, tasks, and comments built with Djang
 --- 
 
 # Clone the repo
-git clone https://github.com/yourusername/taskmanager.git
+git clone https://github.com/akashrana97/project-management-api.git
 cd taskmanager
 
 # Create virtual environment
